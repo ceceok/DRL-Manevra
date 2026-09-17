@@ -1,0 +1,4 @@
+{
+  "target":  {"bearing": 45.0, "range": 10000.0, "course": 270.0, "speed": 5.0},
+  "ownship": {"x": 0.0, "y": 0.0, "course": 0.0, "speed": 8.0}
+}
